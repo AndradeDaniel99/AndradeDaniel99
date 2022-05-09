@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/andradedaniel99">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andradedaniel99&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andradedaniel99&include_all_commits=true&count_private=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradedaniel99&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
