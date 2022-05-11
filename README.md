@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Why Programmers like dark mode? 
     Because light attracts bugs 
-
+    
 
 <div align="center">
   <a href="https://github.com/andradedaniel99">
