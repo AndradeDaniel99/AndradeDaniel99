@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Swift and ios development
 - 📫 How to reach me: daniel.andrade.souza.21@gmail.com
 - 😄 Pronouns: he/him
-- 👨🏻‍💻 I help brazilian students to learn Swift on my instagram: [Swift Dev Br](https://www.instagram.com/swift.dev.br/)
+- 👨🏻‍💻 I help brazilian students to learn Swift on instagram: [Swift Dev Br](https://www.instagram.com/swift.dev.br/)
 - ⚡ Fun fact: Why Programmers like dark mode? 
     Because light attracts bugs 
     
