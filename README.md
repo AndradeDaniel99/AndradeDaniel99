@@ -1,6 +1,6 @@
 ## Hello world... I'm Daniel!
 
-- 🌱 I’m currently learning Swift and ios development
+- 🌱 I’m currently working with Swift and iOS development
 - 📫 How to reach me: daniel.andrade.souza.21@gmail.com
 - 😄 Pronouns: he/him
 - 👨🏻‍💻 I help brazilian students to learn Swift on instagram: [Swift Dev Br](https://www.instagram.com/swift.dev.br/)
